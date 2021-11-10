@@ -1,10 +1,12 @@
 ---
     title: LabStudio Evaluación
----
+---- 
+
+[Introducción a Three.js](https://docs.google.com/document/d/1URuspfHvySH_q2FwFEp3Eh1IGAq1iVC4V56cZ95kkC8/edit#heading=h.bqy1pgzc7km5) 
 
 # Enlaces primera visita
 
-- [Consentimiento informado + Cuestionario demográfico (Primer día)] (https://docs.google.com/forms/d/e/1FAIpQLScqjJWNuKIuNX3hPZVGDP8vts9affwaqFQCt-n6yjnW4hfNog/viewform)
+- [Consentimiento informado] (https://docs.google.com/forms/d/e/1FAIpQLScqjJWNuKIuNX3hPZVGDP8vts9affwaqFQCt-n6yjnW4hfNog/viewform)
 
 - [SUXES Expectativas] (https://docs.google.com/forms/d/e/1FAIpQLSeor61XmDCAj10MdId5I6waV4KMrgLBJ91C6Votg3h4AcFeOw/viewform)
 
